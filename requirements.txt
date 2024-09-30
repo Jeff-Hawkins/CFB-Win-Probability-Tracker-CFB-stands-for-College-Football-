@@ -1,0 +1,4 @@
+dash: For building the web app
+plotly: For generating interactive charts and visualizations
+pandas: For data manipulation and analysis
+requests: For fetching data from the College Football Data API
